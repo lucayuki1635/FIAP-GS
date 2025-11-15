@@ -1,5 +1,11 @@
 # FIAP-GS
 
+Integrantes:
+
+• Artur Zimbarg | RM: 87154  
+• Luca Yuki Pinheiro Takeuchi | RM: 86791 
+
+
 redes_seguras = Lista de redes Wi-Fi consideradas seguras.
 
 registrar_alerta = Exibe no console um alerta indicando que uma rede não autorizada foi detectada.
